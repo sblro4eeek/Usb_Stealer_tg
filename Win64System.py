@@ -11,9 +11,9 @@ github :: https://github.com/sblro4eeek/Usb_Stealer_tg
                                                  
                                                  
     Copyleft 2022 https://t.me/sblro4eeek
-    This module is free software
-	You can edit this module, 
-	but when editing, credit the author and yourself
+    This code is free software
+    You can edit this module, 
+    but when editing, credit the author and yourself
 """
 import win32api as wa
 import win32file as wf
