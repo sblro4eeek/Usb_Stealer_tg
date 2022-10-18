@@ -1,7 +1,7 @@
 telegram :: https://t.me/sblro4eeek
 github :: https://github.com/sblro4eeek/Usb_Stealer_tg
 
-1) Установите Python 3.7.5 (ОБЯЗАТЕЛЬНО)
+1) Установите Python 3.7.5 ( КОД НАПИСАН НА ЭТОЙ ВЕРСИИ, МБ И НА ВЫШЕ БУДЕТ РАБОТАТЬ)
 2) Пропишите следующие команды в cmd (ОБЯЗАТЕЛЬНО):
  pip install pyTelegramBotAPI
  pip install shutil
